@@ -1,0 +1,325 @@
+locations:
+  location_1:
+    district: "Pune"
+    state: "Maharashtra"
+    country: "India"
+    end_point: "a3qe69pk26zn9j-ats.iot.us-east-1.amazonaws.com"
+    ca_file: "certificates/root-CA.crt"
+    sprinklers:
+      sprinkler_1:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate: "certificates/location_1_sensor_11.cert.pem"
+            private_key: "certificates/location_1_sensor_11.private.key"
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_2:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_21:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_22:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_23:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_24:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_3:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_31:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_32:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_33:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_34:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_4:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_41:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_42:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_43:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_44:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_5:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_51:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_52:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_53:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_54:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+  location_2:
+    district: "Belgaum"
+    state: "Karnataka"
+    country: "India"
+    end_point:
+    ca_file:
+    sprinklers:
+      sprinkler_1:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_2:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_3:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_4:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+      sprinkler_5:
+        certificate:
+        private_key:
+        publish_topic:
+        heartbeat_topic: "agri/heartbeat"
+        subscribe_topic: "agri/sprinker-subscribe"
+        sensors:
+          sensor_11:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_12:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_13:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
+          sensor_14:
+            certificate:
+            private_key:
+            publish_topic: "agri/sensor-publish"
+            heartbeat_topic: "agri/heartbeat"
+            subscribe_topic:
